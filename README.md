@@ -1,8 +1,9 @@
-## Olá! Eu sou o Victor Alexandre
+# Olá! Eu sou o Victor Alexandre
 
-Estudante de Sistemas para Internet  
-Desenvolvedor em formação  
-Focado em desenvolvimento web
+**`Desenvolvedor Back-End`**
+
+Tenho 19 anos e sou de Campo Grande - MS. Atualmente curso Tecnologia em Sistemas para Internet no Instituto Federal de Mato Grosso do Sul (IFMS).
+Atualmente, concentro meus estudos e projetos na área de desenvolvimento Back-End. Neste perfil, compartilho projetos, estudos e experiências voltados para aplicações web, APIs e boas práticas de desenvolvimento, buscando aprimorar continuamente minhas habilidades e construir soluções que gerem impacto real.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,3 +23,15 @@ Focado em desenvolvimento web
   <a href="https://www.linkedin.com/in/victor-alexandre-a8394733b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
  
+## 📊 Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictinhuUu&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictinhuUu&layout=compact&langs_count=8&theme=tokyonight&custom_title=Tecnologias"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=VictinhuUu&theme=tokyonight&locale=pt_BR"/>
+</div>
+
+![](https://komarev.com/ghpvc/?username=VictinhuUu&color=blueviolet)
